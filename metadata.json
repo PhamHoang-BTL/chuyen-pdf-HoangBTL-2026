@@ -1,0 +1,5 @@
+{
+  "name": "PDF/Image to Word Converter",
+  "description": "Convert PDF (up to 10 pages) or images to Word documents. Extracts text, tables, and crops images automatically.",
+  "requestFramePermissions": []
+}
